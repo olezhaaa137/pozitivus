@@ -231,7 +231,7 @@ svg * {
 
 .container {
   max-width: calc(var(--container-width) + var(--container-padding-x) * 2);
-  marign-inline: auto;
+  margin-inline: auto;
   padding-inline: var(--container-padding-x);
 }
 

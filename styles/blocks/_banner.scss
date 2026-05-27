@@ -1,0 +1,11 @@
+.banner {
+  --bannerImageOffsetY: 24px;
+
+  padding-block: var(--bannerImageOffsetY);
+
+  &__inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
